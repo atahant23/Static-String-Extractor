@@ -51,7 +51,7 @@
 ---
 
 ## 📋 Project Overview / Proje Özeti
-
+---
 Static String Extractor & Classifier is an advanced static analysis and threat intelligence engine developed as a final project for the BGT210 Reverse Engineering course at Istinye University.
 Containerized entirely within Docker, the tool automatically detects target binary architectures (ELF, PE, APK) via magic bytes, extracts printable ASCII strings, flags high-risk cryptographic structures using Shannon Entropy, and maps heuristic behavioral capabilities (suspicious system calls and APIs). The pipeline cross-compiles these multi-vector forensic metrics into a structured JSON payload and a high-contrast, interactive dark-mode web dashboard (report.html) for seamless security audits.
 ---
