@@ -3,7 +3,7 @@
     <img src="docs/assets/istinye-university-logo.webp" alt="Istinye University" width="180"/>
   </a>
 
-  # [Static-String-Extractor / Proje Başlığınız]
+  # Static String Extractor and Classifier / Statik String Çıkartıcı ve Sınıflandırıcı
 
   ![GitHub](https://img.shields.io/badge/GitHub-Private-red?style=flat-square&logo=github)
   ![Language](https://img.shields.io/badge/Language-[Rust|Python|Go]-blue?style=flat-square)
