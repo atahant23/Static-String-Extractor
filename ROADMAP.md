@@ -1,5 +1,4 @@
 # ROADMAP — Static String Extractor and Classifier
-/ ROADMAP — Statik String Çıkarıcı ve Sınıflandırıcı
 
 > Course / Ders: Reverse Engineering (BGT210) · Istinye University
 > Instructor / Danışman: Keyvan Arasteh
