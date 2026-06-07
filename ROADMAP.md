@@ -1,7 +1,7 @@
 # ROADMAP — Static String Extractor and Classifier
  ---
  
-## Phase 0 / Faz 0: Understand Before You Build / Yazmadan Önce Anla [X]
+## Phase 0 / Faz 0: Understand Before You Build / Yazmadan Önce Anla
 
 ### Before writing a single line of code, I answered these questions:
 ### Tek satır kod yazmadan önce şu soruları yanıtladım:
