@@ -4,9 +4,10 @@ from dotenv import load_dotenv
 from rich.console import Console
 from rich.panel import Panel
 from rich.table import Table
-from src.extractor import detect_architecture, extract_strings
+from src.extractor import extract_strings
 from src.classifier import classify_strings
-from src.reporter import generate_html_report
+from src.reporter import save_report, save_html_report
+
 load_dotenv()
 console = Console()
 
