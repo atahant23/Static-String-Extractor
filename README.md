@@ -54,7 +54,6 @@
 ---
 Static String Extractor & Classifier is an advanced static analysis and threat intelligence engine developed as a final project for the BGT210 Reverse Engineering course at Istinye University.
 Containerized entirely within Docker, the tool automatically detects target binary architectures (ELF, PE, APK) via magic bytes, extracts printable ASCII strings, flags high-risk cryptographic structures using Shannon Entropy, and maps heuristic behavioral capabilities (suspicious system calls and APIs). The pipeline cross-compiles these multi-vector forensic metrics into a structured JSON payload and a high-contrast, interactive dark-mode web dashboard (report.html) for seamless security audits.
----
 Proje Özeti
 Static String Extractor & Classifier, İstinye Üniversitesi BGT210 Tersine Mühendislik dersi final projesi kapsamında geliştirilmiş gelişmiş bir statik analiz ve tehdit istihbaratı motorudur.
 Docker üzerinde tamamen izole şekilde çalışan bu araç; sihirli byte'lar (magic bytes) aracılığıyla hedef dosya mimarilerini (ELF, PE, APK) otomatik olarak tanımlar, basılabilir ASCII karakter dizilimlerini ayıklar, Shannon Entropisi hesaplayarak yüksek riskli kriptografik yapıları işaretler ve sezgisel (heuristic) davranışsal yetenekleri (şüpheli sistem çağrıları ve API'ler) haritalandırır. Geliştirilen boru hattı, elde edilen tüm çok vektörlü adli bilişim metriklerini yapılandırılmış bir JSON verisine ve kusursuz güvenlik denetimleri için yüksek kontrastlı, interaktif bir karanlık mod web paneline (report.html) dönüştürür.
