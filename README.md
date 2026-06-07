@@ -98,7 +98,7 @@ Static-String-Extractor/
 ## 🚀 Getting Started / Kurulum
 
 ```
-git clone https://github.com/atahant23/Static-String-Extractor.git
+git clone (https://github.com/atahant23/Static-String-Extractor-and-Classifier)
 cd static-string-extractor
 cp .env.example .env
 gcc targets/test.c -o targets/real_binary
